@@ -30,7 +30,9 @@ A simple and elegant web app that calculates a person's age in **years**, **mont
 
 ## 🏁 Live Demo
 
-🔗 [Click here to view the live app](https://your-username.github.io/CodeAlpha_AgeCalculator/)
+🎥 [Click here to view the live video](AgeCalculator_MariyamSadiq.mp4)
+
+> Or host your project live using GitHub Pages (optional)
 
 ---
 
@@ -42,7 +44,7 @@ This project is submitted as part of the **Web Development Internship at [CodeAl
 
 ## 🧑‍💻 Author
 
-- 👩‍💻 [Your Name](https://www.linkedin.com/in/your-link)
+- 👩‍💻 [Mariyam Sadiq](https://www.linkedin.com/in/mariyam-sadiq-364509362)
 
 ---
 
